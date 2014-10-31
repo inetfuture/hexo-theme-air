@@ -1,16 +1,11 @@
 menu:
   首页: /
-  TraceInvest: http://traceinvest.com
-  随感: /categories/essay/
-  技术: /categories/tech/
-  理财: /categories/investment/
-  生活: /categories/life/
   归档: /archives
+  GitHub: https://github.com/inetfuture
 
 widgets:
 - search
 - tag
-- traceInvest
 - recent_posts
 
 excerpt_link: Read More
